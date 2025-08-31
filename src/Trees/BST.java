@@ -18,7 +18,6 @@ public class BST {
 
         private Node root;
 
-        public void BST() {}
 
         public int height(Node node) {
             if (node == null) {
@@ -48,7 +47,7 @@ public class BST {
 
 
         public void insert(int value) {
-
+        
         }
     }
 

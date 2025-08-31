@@ -60,9 +60,6 @@ public class BinaryTree {
 
     }
 
-    public void prettyDisplay(){
-
-    }
 
     private void prettyDisplay(Node node, int lvl) {
 
